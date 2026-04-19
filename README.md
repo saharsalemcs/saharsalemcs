@@ -1,7 +1,4 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6a0572&height=200&section=header&text=Sahar%20Salem%20Mohamed&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Frontend+Developer+%7C+React+%7C+CS+Student&descAlignY=58&descSize=16&descColor=f0c4f7" />
-
----
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D67BFF&center=true&vCenter=true&width=600&lines=Building+web+applications+with+React;JavaScript+%7C+HTML+%7C+CSS;C%2B%2B+%7C+Problem+Solving;Clean+Code+%7C+Learning+Every+Day)](https://github.com/saharsalemcs)
 
@@ -18,12 +15,15 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
-<h3>Frameworks & Libraries</h3>
+<h3>Frameworks & State Management</h3>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 
 <h3>Tools</h3>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
 <br/><br/>
@@ -45,18 +45,6 @@ I'm a **Frontend Developer** and CS student at Kafr el-Sheikh University, buildi
 - Focused on writing clean, readable, and maintainable code
 - Always building something new to grow my skills
 
-```javascript
-const sahar = {
-  location:     "Kafr el-Sheikh, Egypt 🇪🇬",
-  education:    "BSc Computer Science — Kafr el-Sheikh University (2023 – 2027)",
-  currentFocus: ["React", "JavaScript", "Frontend Development"],
-  building:     "...", // add your current project here
-  learning:     "...", // add what you're currently learning
-  askMeAbout:   ["React", "JavaScript", "HTML/CSS", "C++"],
-  funFact:      "...", // add your fun fact here
-};
-```
-
 ---
 
 ## GitHub Stats
@@ -74,12 +62,6 @@ const sahar = {
 
 ---
 
-## Featured Projects
-
-> 🚧 Projects coming soon — currently building and learning!
-
----
-
 ## Education
 
 **Bachelor of Computer Science**
@@ -92,11 +74,3 @@ Kafr el-Sheikh University · 2023 – 2027
 > I believe that good code is not just code that works — it's code that others can read, understand, and build on.
 
 My C++ and problem-solving background taught me to think carefully before writing a single line. I carry that same mindset into every frontend project — breaking problems down, keeping things simple, and always asking *why* before *how*.
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6a0572&height=120&section=footer&text=Let's+build+something+great&fontSize=24&fontColor=ffffff&fontAlignY=65" />
-
-</div>
