@@ -1,62 +1,102 @@
-<h1 align="center">Hi 👋, I'm Sahar Salem</h1>
-<h3 align="center">Computer Science Student | Frontend Developer</h3>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6a0572&height=200&section=header&text=Sahar%20Salem%20Mohamed&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Frontend+Developer+%7C+React+%7C+CS+Student&descAlignY=58&descSize=16&descColor=f0c4f7" />
 
 ---
 
-### 👩‍💻 About Me
-- 🎓 I'm a **Computer Science student**
-- 💻 Passionate about **Frontend Development**
-- 🌱 Currently learning **React and modern JavaScript**
-- 🚀 Interested in building **interactive and user-friendly web applications**
-- 📚 Always learning and improving my development skills
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D67BFF&center=true&vCenter=true&width=600&lines=Building+web+applications+with+React;JavaScript+%7C+HTML+%7C+CSS;C%2B%2B+%7C+Problem+Solving;Clean+Code+%7C+Learning+Every+Day)](https://github.com/saharsalemcs)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahar-salem-5035432b7)
+[![Email](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saharsalemcs@gmail.com)
+
+<br/>
+
+<h3>Core Foundations & Languages</h3>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+<h3>Frameworks & Libraries</h3>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+
+<h3>Tools</h3>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahar-salem-5035432b7)
+[![Email](https://img.shields.io/badge/Gmail-saharsalemcs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saharsalemcs@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=saharsalemcs&color=6a0572&style=for-the-badge&label=Profile+Views)](https://github.com/saharsalemcs)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## About Me
 
-#### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+I'm a **Frontend Developer** and CS student at Kafr el-Sheikh University, building my skills in React and modern web development. I started with strong C++ and problem-solving foundations, and I'm now focused on creating clean, responsive web applications.
 
-#### Tools
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+- Problem-solver at heart — C++ background sharpens my thinking
+- Learning React and modern JavaScript every day
+- Focused on writing clean, readable, and maintainable code
+- Always building something new to grow my skills
 
----
-
-### 📂 Featured Projects
-
-🔹 **Quiz App**  
-Interactive quiz application built with **React**
-
-🔹 **Frontend Practice Projects**  
-Multiple small projects to improve frontend development skills
+```javascript
+const sahar = {
+  location:     "Kafr el-Sheikh, Egypt 🇪🇬",
+  education:    "BSc Computer Science — Kafr el-Sheikh University (2023 – 2027)",
+  currentFocus: ["React", "JavaScript", "Frontend Development"],
+  building:     "...", // add your current project here
+  learning:     "...", // add what you're currently learning
+  askMeAbout:   ["React", "JavaScript", "HTML/CSS", "C++"],
+  funFact:      "...", // add your fun fact here
+};
+```
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saharsalemcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=D67BFF&icon_color=D67BFF&border_color=6a0572"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharsalemcs&layout=compact&theme=tokyonight&title_color=D67BFF&border_color=6a0572"/>
 
----
+<br/>
 
-### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=saharsalemcs&theme=tokyonight&border=6a0572&ring=D67BFF&fire=ff6b6b&currStreakLabel=D67BFF)](https://github.com/saharsalemcs)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=saharsalemcs&theme=radical)
-
----
-
-### 🌐 Connect With Me
-
-📧 Email: saharsalemcs@gmail.com  
-
-💼 LinkedIn: linkedin.com/in/sahar-salem-5035432b7 
+</div>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+## Featured Projects
+
+> 🚧 Projects coming soon — currently building and learning!
+
+---
+
+## Education
+
+**Bachelor of Computer Science**
+Kafr el-Sheikh University · 2023 – 2027
+
+---
+
+## Engineering Philosophy
+
+> I believe that good code is not just code that works — it's code that others can read, understand, and build on.
+
+My C++ and problem-solving background taught me to think carefully before writing a single line. I carry that same mindset into every frontend project — breaking problems down, keeping things simple, and always asking *why* before *how*.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6a0572&height=120&section=footer&text=Let's+build+something+great&fontSize=24&fontColor=ffffff&fontAlignY=65" />
+
+</div>
