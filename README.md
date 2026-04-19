@@ -1,5 +1,10 @@
 <div align="center">
 
+<h1>Sahar Salem Mohamed</h1>
+<h3>Frontend Developer | React Specialist | Competitive Programmer</h3>
+
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D67BFF&center=true&vCenter=true&width=600&lines=Building+web+applications+with+React;JavaScript+%7C+HTML+%7C+CSS;C%2B%2B+%7C+Problem+Solving;Clean+Code+%7C+Learning+Every+Day)](https://github.com/saharsalemcs)
 
 <br/>
