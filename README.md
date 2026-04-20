@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Sahar Salem Mohamed</h1>
-<h3>Frontend Developer | React Specialist | Competitive Programmer</h3>
+<h3>Computer Science Student | React.js Developer</h3>
 
 <br/>
 
