@@ -56,8 +56,8 @@ I'm a **Frontend Developer** and CS student at Kafr el-Sheikh University, buildi
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saharsalemcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=D67BFF&icon_color=D67BFF&border_color=6a0572"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharsalemcs&layout=compact&theme=tokyonight&title_color=D67BFF&border_color=6a0572"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saharsalemcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=78c6ff&icon_color=78c6ff&border_color=0a2d6e"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharsalemcs&layout=compact&theme=tokyonight&title_color=78c6ff&border_color=0a2d6e"/>
 
 <br/>
 
