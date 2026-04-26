@@ -74,8 +74,3 @@ Kafr el-Sheikh University · 2023 – 2027
 
 ---
 
-## Engineering Philosophy
-
-> I believe that good code is not just code that works — it's code that others can read, understand, and build on.
-
-My C++ and problem-solving background taught me to think carefully before writing a single line. I carry that same mindset into every frontend project — breaking problems down, keeping things simple, and always asking *why* before *how*.
