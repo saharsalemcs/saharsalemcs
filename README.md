@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Sahar Salem Mohamed</h1>
+<h1>Hi, I'm Sahar Salem</h1>
 <h3>Computer Science Student | React.js Developer</h3>
 
 <br/>
